@@ -10,3 +10,21 @@
 .form{
     padding: 15px;
 }
+table{
+border-collapse: collapse;
+}
+/* table h1{
+    text-align: center;
+} */
+td ,th{
+    border: 1px solid #000;
+    text-align: center;
+    padding: 8px 25px;
+   font-size: 20px;
+    
+    
+}
+/* th{
+    border: 1px solid #000;
+    text-align: center;
+} */
